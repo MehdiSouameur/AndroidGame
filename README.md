@@ -6,3 +6,5 @@ into an online database at the end of the game.
 Move right by holding right half of the screen,
 Move left by holding left half of the screen,
 jump by tapping the top of the screen.
+
+You can download the game on a phone using the apk provided, or use android studio's emulator by importing this project.
